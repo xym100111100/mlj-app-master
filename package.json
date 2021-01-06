@@ -12,7 +12,7 @@
   "dependencies": {
     "@react-native-community/async-storage": "^1.11.0",
     "@react-native-community/picker": "^1.6.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ht-react-native-picker": "^1.0.0",
     "lodash.clonedeep": "^4.5.0",
     "mathjs": "^7.0.1",
